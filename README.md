@@ -1,2 +1,2 @@
-# cabal-vapn
+# cabal-vpn
 cabal vpn site
